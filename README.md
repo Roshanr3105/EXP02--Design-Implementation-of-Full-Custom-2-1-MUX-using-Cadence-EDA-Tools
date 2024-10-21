@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![Screenshot 2024-10-21 115228](https://github.com/user-attachments/assets/4f4caa94-6076-401c-82e0-b27d75b65f87)
 
 
  
@@ -63,7 +63,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+![Screenshot 2024-10-21 115203](https://github.com/user-attachments/assets/52f739e6-8892-4eae-8fbc-d36f53894af2)
+
 
 
 iv)	Creating the new test cell view
@@ -74,7 +75,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![Screenshot 2024-10-21 124434](https://github.com/user-attachments/assets/c1b35b03-5db9-4ace-8f42-175673de4e20)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +88,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+![Screenshot 2024-10-21 124650](https://github.com/user-attachments/assets/418ef402-8bd6-4282-b1e5-20c6e1ef9229)
+
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+ ![Screenshot 2024-10-21 124551](https://github.com/user-attachments/assets/27696703-7b71-42fb-a8d9-05978f7a78e6)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+
+ ![Screenshot 2024-10-21 202837](https://github.com/user-attachments/assets/b60972b6-64c4-47a1-8d7e-93951226768c)
+
 
 
 
